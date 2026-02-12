@@ -1,4 +1,4 @@
 Sala: Vacía 
 Cocina: Vacía 
-Habitación:vacia
+Habitación:televisor,play5,equipo de sonido,drone,ducati 1200.
 Jardín: Vacío
