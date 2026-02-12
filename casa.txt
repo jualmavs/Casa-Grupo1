@@ -2,3 +2,5 @@ Sala: Vacía
 Cocina: Vacía 
 Habitación: Vacía 
 Jardín: Flores rojas, flores blancas, arbustos, orquidea
+Habitación:televisor,play5,equipo de sonido,drone,ducati 1200.
+Jardín: Vacío
